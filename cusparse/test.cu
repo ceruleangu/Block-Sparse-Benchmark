@@ -201,6 +201,5 @@ int main() {
   test(M, N, K, BS_R, BS_R, density);
 
   return 0;
-
 }
 
