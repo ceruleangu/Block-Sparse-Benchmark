@@ -11,7 +11,7 @@ usage: test_topi_sparse.py [-h] [--n_trial N_TRIAL] [--repeat REPEAT] [--tune]
                            [--autotvm_log AUTOTVM_LOG]
                            {PEP,PTP,PROB,PRWB,PRWB_AT}
 ```
-positional arguments:
+Positional arguments:
 ```
 PEP       Per Element Parallization  
 PTP       Per Tile Paralliza-tion.  
@@ -20,7 +20,7 @@ PRWB      Parallel Reduction With Blocks.
 PRWB_AT   Parallel Reduction Within Blocks + AutoTuning
 ```
 
-optional arguments:
+Optional arguments:
 ```
   -h, --help            show this help message and exit
   --n_trial N_TRIAL     Number of trials for AutoTVM
