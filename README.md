@@ -11,7 +11,7 @@ usage: test_topi_sparse.py [-h] [--n_trial N_TRIAL] [--repeat REPEAT] [--tune]
                            [--autotvm_log AUTOTVM_LOG]
                            {PEP,PTP,PROB,PRWB,PRWB_AT}
 ```
-positional arguments: PEP, PTP, PROB, PRWB, PRWB_AT
+positional arguments:
 ```
 PEP       Per Element Parallization  
 PTP       Per Tile Paralliza-tion.  
