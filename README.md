@@ -2,7 +2,7 @@
 
 Benchmark for matrix multiplications between dense and block sparse (BSR) matrix in TVM, [blocksparse (Gray et al.)](https://github.com/openai/blocksparse) and cuSparse.
 
-Please refer to [our paper](./Optimizing_Block_Sparse_Matrix_Multiplications_on_CUDA_with_TVM.pdf) for details.
+Please refer to [our paper](https://arxiv.org/abs/2007.13055) for details.
 
 Benchmark for TVM:
 ```
